@@ -7,19 +7,21 @@ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram r
 
 
 ## URLs dos EPG para myIPTVChannels (Kodi, etc.)
-Portugal Channels: pt.m3u = 
+Portugal Channels: pt.m3u = http://epg.kodiportugal.com
 
 
 
 ##Regras
 1) KISS = Keep it simple, stupid (as possible)!
 
-1.1) 
-
 
 
 2) Template:
 
+FONTE (URL)
+ID's:
+
+[NOME DO CANAL] - [ID]
 
 
 
